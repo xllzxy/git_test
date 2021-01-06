@@ -12,6 +12,7 @@ public class FirstClass {
     public void test(){
         int i=10;
         i=20;
+        System.out.println(i);
     }
 
 }
